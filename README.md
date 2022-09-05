@@ -14,7 +14,7 @@
   🎨 Design
 </h2>
 <h2 align="center">
-  <img alt="Beautysalon." src="./assets/readme/mockup.png" align="center"/></h2>
+  <img alt="Beautysalon." src="./assets/fotos/mockup.png" align="center"/></h2>
   <h3 align="center"><a href="https://www.figma.com/file/YJ21RnZoelU6tthwExzMVP/Origin-Six/duplicate" target="_blank">Link no Figma</a><br>
   <a href="https://igorvini25.github.io/Beautysalon-NLW6" target="_blank">Site do Projeto</a></h3><hr>
   <h2 align="center">A Paleta de cores</h2>
